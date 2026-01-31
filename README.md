@@ -3,17 +3,17 @@ A SQL project that aim to provide Maven Toys, a fictional chain of toy stores in
 
 ## Table of Content
 
-- [Project Overview](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#project-overview)
-- [Project Scope](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#project-scope)
-- [Business Objective](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#business-objective)
-- [Document Purpose](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#document-purpose)
-- [Use Case](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#use-case)
-- [Skills Demostrated](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#skills-demostrated)
-- [Data Source](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#data-source)
-- [Data Cleaning and Processing](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#data-cleaning-and-processing)
-- [Data Analysis and Insight](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#data-analysis-and-insight)
-- [Recommembdation](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#recommendation)
-- [Conclusion](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#conclusion)
+- [Project Overview](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#project-overview)
+- [Project Scope](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#project-scope)
+- [Business Objective](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#business-objective)
+- [Document Purpose](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#document-purpose)
+- [Use Case](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#use-case)
+- [Skills Demostrated](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#skills-demostrated)
+- [Data Source](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#data-source)
+- [Data Cleaning and Processing](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#data-cleaning-and-processing)
+- [Data Analysis and Insight](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#data-analysis-and-insight)
+- [Recommembdation](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#recommendation)
+- [Conclusion](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis#conclusion)
 
 ## Project Overview
 The Maven Toy Sales and Inventory Analysis project aim to provide Maven Toys, a fictional chain of toy stores in Mexico, with actionable insights into product profitability, seasonal sales trends, stockouts impact, and inventory efficiency.
@@ -114,7 +114,7 @@ Creating relationships between tables is crucial for this analysis. It not only 
 
 Relationships enable the use of JOIN operations in queries, allowing data from multiple tables to be combined and retrieved in a single query. This leads to more efficient and streamlined data retrieval. By establishing relationships, it helps to avoid duplicating information in multiple tables and make the database more efficient in terms of storage and easier to maintain. Relationships provide a clear representation of the connections between different entities in the database. This makes the database structure more understandable and facilitates effective data modeling.
 
-For the complete data cleaning documentation, [Click Here](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis/blob/main/Maven_Toy_Sales_Data_Cleaning_and_Procesing.pdf)
+For the complete data cleaning documentation, [Click Here](https://github.com/marsiloladejo7-wq/Maven-Toys-Sales-Analysis/blob/main/Maven_Toy_Sales_Data_Cleaning_and_Procesing.pdf)
 
 # Data Analysis and Insight
 
@@ -500,8 +500,7 @@ Thank You For Reading
 
 I’m interested in a Data Analyst role in an organization where I can showcase my skills, take more responsibilities, continue to learn, an organization that I can grow with, where my work will be highly beneficial to the organization.
 
-You can reach me on ochukoejemudaro@gmail.com or [Twitter](https://twitter.com/iamochuks/) or [LinkedIn](https://www.linkedin.com/in/ochukoejemudaro01/)
-
+You can reach me on marsiloladejo7@gmail.com
 THANK YOU
 
 
